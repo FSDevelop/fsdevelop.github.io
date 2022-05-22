@@ -2,7 +2,7 @@
 
 I'm a professional software developer since 2011 focused on Full-Stack development, passionate about Node.js and leadership.
 
-My currently responsabilities cover leading a small 4 members size team, onboarding new people to the project architecture and codebase, maintaining and upgrading an existing portal with new applications, proposing technical and arquitectural solutions and close collaboration with Tech Leads and CTO on standards.
+My currently responsabilities cover leading a small 4 members size team, onboarding new people to the project architecture and codebase, maintaining and upgrading an existing portal with new applications, proposing technical and arquitectural solutions and close collaboration with Tech Leads and CTO on code standards and conventions.
 
 I have 4 years of experience as a Team Lead.
 
