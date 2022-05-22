@@ -10,18 +10,18 @@ I have 4 years of experience as a Team Lead.
 
 #### Top used current Stack
 
-- Vue.js (2 years)
-- Laravel (2 years)
-- Node.js (3 years)
-- AWS (5 years)
-- Salesforce (7 years)
+1. Vue.js (2 years)
+2. Laravel (2 years)
+3. Node.js (3 years)
+4. AWS (5 years)
+5. Salesforce (7 years)
 
 #### Past Stack
 
-- MySQL (7 years)
-- Angular.js (2 years)
-- Joomla (2 years)
-- Java (1 year)
+1. MySQL (7 years)
+2. Angular.js (2 years)
+3. Joomla (2 years)
+4. Java (1 year)
 
 ### Links
 
