@@ -4,6 +4,16 @@ I'm a professional software developer since 2011 focused on Full-Stack developme
 
 I'm passionate about Node.js and leadership.
 
+### Skills
+
+- Node.js
+- Vue.js
+- AWS
+- Salesforce
+- Laravel
+- MySQL
+- Angular.js
+
 ### Links
 
 - [Github](https://github.com/FSDevelop)
