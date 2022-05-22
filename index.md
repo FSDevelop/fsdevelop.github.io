@@ -6,5 +6,5 @@ I'm passionate about Node.js and leadership.
 
 ### Links
 
-- [Github] (https://github.com/FSDevelop)
-- [Linkedin] (https://www.linkedin.com/in/federico-sosa/)
+- [Github](https://github.com/FSDevelop)
+- [Linkedin](https://www.linkedin.com/in/federico-sosa/)
