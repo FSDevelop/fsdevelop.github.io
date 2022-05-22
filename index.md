@@ -1,8 +1,8 @@
 ## Federico Sosa
 
-I'm a professional software developer since 2011 focused on Full-Stack development.
+I'm a professional software developer since 2011 focused on Full-Stack development, passionate about Node.js and leadership.
 
-I'm passionate about Node.js and leadership.
+My currently responsabilities cover leading a small 4 members size team, onboarding new people to the project architecture and codebase, maintaining and upgrading an existing portal with new applications, proposing technical and arquitectural solutions and close collaboration with Tech Leads and CTO on standards.
 
 I have 4 years of experience as a Team Lead.
 
@@ -17,9 +17,10 @@ I have 4 years of experience as a Team Lead.
 
 1. Vue.js (2 years)
 2. Laravel (2 years)
-3. Node.js (3 years)
-4. AWS (5 years)
-5. Salesforce (7 years)
+3. Docker (2 years)
+4. Node.js (3 years)
+5. AWS (5 years)
+6. Salesforce (7 years)
 
 #### Past Stack
 
