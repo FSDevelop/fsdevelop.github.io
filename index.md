@@ -4,6 +4,8 @@ I'm a professional software developer since 2011 focused on Full-Stack developme
 
 I'm passionate about Node.js and leadership.
 
+I have 4 years of experience as a Team Lead.
+
 ### Skills
 
 #### Top used current Stack
