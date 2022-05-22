@@ -6,13 +6,20 @@ I'm passionate about Node.js and leadership.
 
 ### Skills
 
-- Node.js
-- Vue.js
-- AWS
-- Salesforce
-- Laravel
-- MySQL
-- Angular.js
+#### Top used current Stack
+
+- Vue.js (2 years)
+- Laravel (2 years)
+- Node.js (3 years)
+- AWS (5 years)
+- Salesforce (7 years)
+
+#### Past Stack
+
+- MySQL (7 years)
+- Angular.js (2 years)
+- Joomla (2 years)
+- Java (1 year)
 
 ### Links
 
