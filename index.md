@@ -1,4 +1,4 @@
-## Federico Sosa
+## Federico Sosa, Team Lead, Senior Full-Stack Developer
 
 Last updated: May 22nd, 2022
 
