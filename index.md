@@ -15,7 +15,7 @@ I have 4 years of experience as a Team Lead.
 
 ### Skills
 
-#### Top used current Stack
+#### Current Stack
 
 1. Vue.js (2 years)
 2. Laravel (2 years)
